@@ -7,7 +7,7 @@ function App() {
   return (
     <main className="App">
       <header>
-        <h1 className="title">Космічні Таємниці</h1>
+        <h1 className="title">Тваринки </h1>
       </header>
       <CardList cards={cardsData} />
     </main>
